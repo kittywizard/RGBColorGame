@@ -1,0 +1,24 @@
+.container {
+
+  background-color: rgb(157, 210, 230);
+  width: 75%;
+  font-family: Helvetica, sans-serif;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+#colors {
+  background-color: white;
+  padding: 5px;
+  margin: 5px;
+}
+
+.square {
+  width: 30%;
+  border-radius: 5%;
+  float: left;
+  background-color: rgb(232, 232, 232);
+  padding: 2%;
+  margin: 5px;
+}
