@@ -1,3 +1,5 @@
+//testing for github purposes
+
 //RGB Color Game
 
 //variables for the squares
